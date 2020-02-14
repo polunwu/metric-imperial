@@ -15,7 +15,7 @@ npm install
 1) SET NODE_ENV to `test` without quotes
 2) Most logic was done in `controllers/convertHandler.js` 
 3) Router handling logic in `routes/api.js`
-4) security features was added to `server.js`
+4) Security features was added to `server.js`
 5) All functional/unit tests in `tests/2_functional-tests.js` and `tests/1_unit-tests.js`
 
 ### User Stories
